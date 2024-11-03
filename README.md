@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @Heyflyingpig  
-- I'm a greenhand
-- I hope i can achieve my dream
+- welcome to chat to me
