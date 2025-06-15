@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @Heyflyingpig  
-- welcome to chat to me
+- 我专注各种llm工具的开发，如果你和我志同道合，请随时联系我，我们一起进步！
