@@ -34,6 +34,4 @@
 -  **Lab**: [DMIR Laboratory](https://github.com/DMIRLAB-Group)
 
 ---
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Heyflyingpig&show_icons=true&theme=minimal" alt="Heyflyingpig's GitHub stats" />
-</div>
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Heyflyingpig)](https://github.com/pranesh-2005/github-readme-stats-fast)
