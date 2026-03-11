@@ -27,6 +27,15 @@
 | :--- | :--- | :--- |
 | **CausalAgent** | 一个集成了 AGENT 的因果分析工具。它能够自动识别因果关系，生成专业的分析报告，并提供可交互的因果图谱。 | [View Project](https://github.com/Heyflyingpig/CausalAgent) |
 
+### Article
+1. **CausalAgent: A Conversational Multi-Agent System for End-to-End Causal Inference(IUI2026)**
+  - DOI: 10.1145/3742414.3794777 
+  - Contributors: Jiawei Zhu; Wei Chen; Ruichu Cai
+2. **A Report on the llms evaluating the high school questions**
+  - URI: https://arxiv.org/abs/2505.00057
+  - Contributors: Zhu Jiawei; Chen Wei
+3. **VIGOR+: Iterative Confounder Generation and Validation via LLM-CEVAE Feedback Loop**
+  - URL:https://arxiv.org/abs/2512.19349
 ### Connect with Me
 
 -  **Email**: [3123005571@mails.gdut.edu.cn](mailto:3123005571@mails.gdut.edu.cn)
